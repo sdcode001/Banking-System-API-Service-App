@@ -8,6 +8,7 @@ This Api service is server data to those projects and departments for banking op
 ## Tech-Stack:
 TypeScript, Next.JS Server side, MongoDB, Swagger API documentation
 
+![Screenshot (247)](https://user-images.githubusercontent.com/92887905/212463656-d3c7329c-8aff-4f87-940e-71c7d86051a4.png)
 ## Getting Started
 
 First, run the development server:
